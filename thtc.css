@@ -1,0 +1,97 @@
+body{
+    margin:1px;
+    background-color: ghostwhite;
+}
+video{
+    width:100%; 
+    height:auto;
+}
+
+#menuLogo{
+    float:left;
+    background-color:white;
+    padding:29px 75px;
+}
+.topnav{
+    overflow:hidden;
+    background-color:#026aa7;
+    position:fixed;
+    width:100%;
+    top:0;  
+}
+.main{margin-top:96px}
+.topnav a{
+    float:right;
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 40px 40px;
+    text-decoration:none;
+    font-size: 14px;
+    font-family: Helvetica; 
+    }
+
+
+.topnav a:hover{
+    border-bottom:2px solid orange;
+}
+.topnav a.active{color:orange}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 1310px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 1310px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+p,h3,h1,h4,h2,header{font-family: Helvetica;line-height:30px}
+
+
+.box{float:left;width:50%;height:720px;background-color: white}
+.clearfix:after{content:"";clear:both;display:table}
+
+.img-container{text-align: center}
+
+#milestonesContainer{display:flex;height:165px;background-color:red;align-items:center;justify-content: center;flex-flow:column wrap}
+#milestonesContainer>div{width:160px;height:150px;background-color:red;text-align: center;color:white;}
+
+.footer {
+  position:relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+#header_services{font-size:35px;text-align: center;padding:35px 0px}
+
+.button{border:none;padding:15px 32px;font-family: sans-serif;color:white;text-align: center;display:inline-block;font-size: 16px}
+
+#footerContainer{display:flex;height:620px;align-items:center;justify-content:center;flex-flow:column wrap;background-color:black}
+#footerContainer>div{width:314px;height:450px;background-color:black;color: white;padding:6px;margin-top:30px;text-align: left; line-height:30px}
+
+#detailsServices{display:flex;height:700px;background-color:#EEEEEE;align-items:center;justify-content: center;flex-flow:column wrap;}
+#detailsServices>div{width:511px;height:630px;background-color: white;line-height: 30px}
+
+
+
+
+
