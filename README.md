@@ -8,7 +8,7 @@
 #### 1. Landing page:
 <img width="1440" alt="Screenshot 2023-07-19 at 5 05 39 PM" src="https://github.com/TonyPhan0505/Corporate-Website/assets/87828913/6fc37a7c-523e-410d-b881-943dce0a5c1e">
 
-#### 2. Services:
+#### 2. Services page:
 <img width="1440" alt="Screenshot 2023-07-19 at 5 05 56 PM" src="https://github.com/TonyPhan0505/Corporate-Website/assets/87828913/f70b5a5f-1211-40f6-9b0a-122fe1e494c3">
 <img width="1440" alt="Screenshot 2023-07-19 at 5 05 48 PM" src="https://github.com/TonyPhan0505/Corporate-Website/assets/87828913/71c60ae0-676c-4cc7-8c35-ab02dddefed9">
 <img width="1438" alt="Screenshot 2023-07-19 at 5 06 06 PM" src="https://github.com/TonyPhan0505/Corporate-Website/assets/87828913/3bd78f21-c4ef-4c1c-a61e-59705c322996">
